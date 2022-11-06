@@ -1,4 +1,6 @@
-dist
-coverage
-docs
+# Output directories
+dist/
+# Modules
+node_modules/
+coverage/
 webpack.config.js
