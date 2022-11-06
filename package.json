@@ -1,7 +1,7 @@
 {
   "name": "math",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/683dxauh7q919iv5?svg=true)](https://ci.appveyor.com/project/bochkarevatat/containerset)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "core-js": "^3.22.5"
+    "core-js": "^3.26.0"
   },
   "keywords": [
     "homeWork"

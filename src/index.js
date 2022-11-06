@@ -1,6 +1,6 @@
-import './math/Character';
-import './math/Daemon';
-import './math/Magician';
-import './math/Math';
-import './style.css';
+import './js/Character.js';
+import './js/Daemon.js';
+import './js/Magician.js';
+import './js/Math.js';
+import './css/style.css';
 
